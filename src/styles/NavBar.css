@@ -1,0 +1,27 @@
+html {
+    font-size: 62.5%;
+}
+
+.navBar {
+    background-color: aquamarine;
+    height: 8rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-icon {
+    margin: auto 2rem;
+}
+.menu-icon img {
+    width: 3rem;
+    height: 3rem;
+}
+
+.cart-icon {
+    margin: auto 1rem;
+}
+.cart-icon img {
+    width: 4rem;
+    height: 3rem;
+}
